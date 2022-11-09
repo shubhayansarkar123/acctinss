@@ -2,7 +2,6 @@
 
 from flask import Flask
 
-from  mymongo import mongo
 
 app=Flask(__name__)
 
